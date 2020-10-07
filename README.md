@@ -110,3 +110,10 @@ if bowl is empty:
 if bowl only has cereal in it:
     add milk
 ```
+
+# Tables (Very Important)
+Heading 1 | Heading 2
+----------|--------
+Rule 1 | Pipe Sign used as Column Separator
+Rule 2 | Dashes with Pipe sign used in second line under Heading to indicate that above line is Heading
+Rule 3 | Add as many lines as required with equal number of pipe sign to ensure table is correctly filled
